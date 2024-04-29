@@ -129,8 +129,8 @@ System.out.println(fls);
 What is the result?
 
 The are 1 correct answers
-- [x] [jasmine, rose, lily]
-A runtime exception is thrown
+[jasmine, rose, lily]
+- [x] A runtime exception is thrown
 [jasmine, lily, lotus]
 [jasmine, rose, lotus, lily]
 
@@ -340,9 +340,9 @@ Which is not a true statement about an array?
 
 The are 1 correct answers
 
-An array expands automatically when it is full.
+- [x] An array expands automatically when it is full.
 An array is allowed to contain duplicate values.
-- [x] An array understands the concept of ordered elements.
+An array understands the concept of ordered elements.
 An array uses a zero index to reference the first element.
 None of the above
 All of the above
@@ -403,8 +403,8 @@ What is the result?
 The are 1 correct answers
 a memory address1 in hexadecimal number format, a memory address2 in hexadecimal number format
 10, 15 ,[10, 15]
-- [x] 0, 10, 15 , [10, 15, null]
-a memory address in hexadecimal number format, [10, 15]
+0, 10, 15 , [10, 15, null]
+- [x] a memory address in hexadecimal number format, [10, 15]
 
 
 _______________________________________________________________________________________________
@@ -432,8 +432,8 @@ The are 1 correct answers
 false 0
 true 1
 2
-The code does not compile.
-- [x] The code throws an exception at runtime.
+- [x]  The code does not compile.
+The code throws an exception at runtime.
 None of the above
 
 
@@ -465,10 +465,10 @@ What is the result of the following when called as java Binary.java? (Choose two
 The are 2 correct answers
 
 null
-[]
+- [x] []
 Binary
-The code throws an ArrayIndexOutOfBoundsException.
-- [x] The code throws a NullPointerException.
+- [x] The code throws an ArrayIndexOutOfBoundsException.
+The code throws a NullPointerException.
 The code does not compile
 _____________________________________________________________________________________________
 - 19. 
